@@ -3,27 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Who am I?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+레거시 코드에 갇혀 시대를 따라가지 못 하다, 문득 정신을 차려보니 고인물이 되어 썩어 들어가는 9년차 개발자.
 
-There are currently two themes built on Poole:
+세 딸과 가정을 책임져야 하는 게으른 가장.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+세상과 하나님 사이에서 여전히 갈등하는 혼탁한 탐색자.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+# Why do I create this blog?
 
-## Setup
+  패배주의와 나태에 허우적거리다, 신입사원 같지 않는 신입사원, 나를 훨씬 앞질러가는 동료들을 보며 이대로 안되겠다 싶어 다시 삶을 정비하려고 합니다.
 
-Some fun facts about the setup of this project include:
+    재정비해야겠다는 생각이 들면서 무엇을 가장 먼저 변화시켜야 될까 고민했습니다. 90년대 중학생 수준의 영어, 학부 1학년 수준의 코딩 실력 모두 큰 문제이지만, 그 이전에 내 삶에 대한 복기와 진정한 반성이 이루어지지 않게 가장 큰 문제라는 생각이 들었습니다.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+  그러면서 내 삶에서 가장 큰 진전이 있었던 때가 언제였나 싶었고, 고3 시절, 열심히 문제를 풀며 오답노트를 차곡차곡 쌓아 나갔던 것이 생각났습니다. 오답노트를 채워나가는 성취감도 있었지만, 실제로 내가 어디서 자주 틀리는지 알아 실수도 줄여나갈 수 있었고, 조금씩 성장함을 느낄 수 있는 좋은 도구였던 것 같습니다. 아마 기록의 중요성을 깨우쳤던 몇 안되는 순간이었을 것입니다.
+ 그리하여 개발자로서 "오답노트"를 쓰는 것을 다시 시작하고 기록의 습관을 길러보려고 합니다.
